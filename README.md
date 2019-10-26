@@ -13,12 +13,12 @@ CouchDB Driver/API:
 * PHP-on-Couch
 
 Web Server:
-* Xampp
+* XAMPP
 
 IDE tool:
 * Visual Studio Code
 
-# Installation
+## Installation
 ```
 git clone https://github.com/hiewying/couchdb.git
 ```
